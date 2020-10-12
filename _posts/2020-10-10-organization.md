@@ -11,9 +11,7 @@ toc: true
 
 Random text for display purposes.
 
-$$ 
-x_a = 10 
-$$
+$x_a = 10$
 
 
 ```
