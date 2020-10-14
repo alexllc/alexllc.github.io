@@ -31,12 +31,12 @@ twitter:
   username: alexandrialcl            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Alexandria Lau                  # it will shows as the copyright owner in Footer
+  email: laulc AT link (d0t) cuhk [dOT} edu {dOt] hk             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/alexandrialcl      # change to your twitter homepage
+    - https://github.com/alexllc       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
