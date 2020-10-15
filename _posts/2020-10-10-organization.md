@@ -93,3 +93,23 @@ Github is the to-go platform for me to host all my scripts and analysis realted 
 ```
 
 `bin`, `cfg`, `doc` and `src` are shared between servers and version controlled, whereas the `exp` folders are only partially shared and pushed to my Github repository.
+
+### Log, lab notebook and other notes
+
+I thought about using a separate system for these documents, but since not all of my results are hosted online, I think it's a better idea to keep the realted notes or otuput logs together with the scripts and data I used to generate those results. It's also a good idea to put why I chose a particualr formula or theory to work with in my scripts side by side. I used to use Joplin as my electronic labnotebook, but it's a huge hassle to cross reference the noteobok and the result on the servers, so I will slowly get rid of my old Joplin setup.
+
+
+### Formal texts and citation management
+
+I read a lot of papers and I use Zotero to manage them. I have offline access to all the full texts and they are synced on MEGA, so I can basically fetch any papers I want anytime with the Zotero + MEGA combo. What's really great about Zotero is the biblatex plugin that can be installed on it. I write .tex files with VSCode while keeping a live .bib file that automatically updates whenever I added new entries to it. I could collaborate with others if I added them to my git repository for this document, but I suppose not all collabroators have the same set up. So I think I should start looking into Overleaf.
+
+
+## Final thoughts
+
+I think I should have learnt all this on day 0! This would have saved me a lot of time when trying to publish or communicate with others.
+
+> Science is not about making predictions or performing experiments. Science is about explaining. ― Bill Gaede
+
+I knew I was in deep trouble when I wrote my thesis, but for some reason I dind't end up getting this stuff together. I should really thank Larry from my lab for inspiring me to do so, and pointing me to the resources by [Prof. Karl Broman](https://kbroman.org/). I think this kind of training should be made mandatory in every graduate courses (wet-lab, dry-lab included), those safety classes are less important.
+
+## Further reading
