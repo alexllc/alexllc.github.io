@@ -110,6 +110,6 @@ I think I should have learnt all this on day 0! This would have saved me a lot o
 
 > Science is not about making predictions or performing experiments. Science is about explaining. ― Bill Gaede
 
-I knew I was in deep trouble when I wrote my thesis, but for some reason I dind't end up getting this stuff together. I should really thank Larry from my lab for inspiring me to do so, and pointing me to the resources by [Prof. Karl Broman](https://kbroman.org/). I think this kind of training should be made mandatory in every graduate courses (wet-lab, dry-lab included), those safety classes are less important.
+I knew I was in deep trouble when I wrote my thesis, but for some reason I dind't end up getting this stuff together. I should really thank Larry from my lab for inspiring me to do so, and pointing me to the resources by [Prof. Karl Broman](https://kbroman.org/). I think this kind of training should be made mandatory in every graduate program (wet-lab, dry-lab included), those safety classes are less important.
 
 ## Further reading
