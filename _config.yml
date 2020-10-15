@@ -13,16 +13,14 @@ title: Hi I'm Alex                          # the main title
 tagline: Vegan AF.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A personal writing outlet that I don't expect anyone to actually read.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://alexllc.github.io'
 
 author: Alex Lau                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/pepe_code.gif   # support internet resources
 
 github:
   username: alexllc             # change to your github username
