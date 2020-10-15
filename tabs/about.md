@@ -1,11 +1,7 @@
 ---
 title: About
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+
+A bozo fumbling around in the realm of probabiltiy, statistics and computers in the pursuit of an animal-free research career.
