@@ -1,6 +1,6 @@
 ---
 title: Old ass hand me down tower
-date: 2020-10-09 01:58 +8000
+date: 2020-10-09 01:58 +0800
 categories: [Computers]
 tags: [hardware, mobo]
 
