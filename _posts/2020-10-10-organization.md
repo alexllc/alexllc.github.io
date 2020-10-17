@@ -58,7 +58,7 @@ So the set up I'm talking about here isn't just about your documentation, code o
 
 4. OS integration
 
-    I'm a huge (GNU) Linux fan, and obviously I want everything I use on a day to day basis to be well integrated to my native Linux environment. So some of the really well designed systems like Onenote or Evernote are out of the quetsion. I also don't want to run anything with Wine, my Tux is sober. So citation systems like EndNote are not welcomed here. Given that I play with my system frequently, I also want the whole set up to be easily transferred.
+    I'm a huge (GNU) Linux fan, and obviously I want everything I use on a day to day basis to be well integrated in my native Linux environment. So some of the really well designed systems like Onenote or Evernote are out of the quetsion. I also don't want to run anything with Wine, my Tux is sober. So citation systems like EndNote are not welcomed here. Given that I play with my system frequently, I also want the whole set up to be easily transferred.
 
 
 ## What my current reserach set up looks like
@@ -94,6 +94,7 @@ Github is the to-go platform for me to host all my scripts and analysis realted 
 
 `bin`, `cfg`, `doc` and `src` are shared between servers and version controlled, whereas the `exp` folders are only partially shared and pushed to my Github repository.
 
+<<<<<<< Updated upstream
 ### Log, lab notebook and other notes
 
 I thought about using a separate system for these documents, but since not all of my results are hosted online, I think it's a better idea to keep the realted notes or otuput logs together with the scripts and data I used to generate those results. It's also a good idea to put why I chose a particualr formula or theory to work with in my scripts side by side. I used to use Joplin as my electronic labnotebook, but it's a huge hassle to cross reference the noteobok and the result on the servers, so I will slowly get rid of my old Joplin setup.
@@ -112,4 +113,11 @@ I think I should have learnt all this on day 0! This would have saved me a lot o
 
 I knew I was in deep trouble when I wrote my thesis, but for some reason I dind't end up getting this stuff together. I should really thank Larry from my lab for inspiring me to do so, and pointing me to the resources by [Prof. Karl Broman](https://kbroman.org/). I think this kind of training should be made mandatory in every graduate program (wet-lab, dry-lab included), those safety classes are less important.
 
-## Further reading
+=======
+## Fruther reading
+[Schnell S (2015) Ten Simple Rules for a Computational Biologist’s Laboratory Notebook. PLoS Comput Biol 11(9): e1004385](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
+
+[Noble WS (2009) A Quick Guide to Organizing Computational Biology Projects. PLoS Comput Biol 5(7): e1000424](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424#s6)
+
+[McHardy AC (2015) How to Grow a Computational Biology Lab. PLoS Comput Biol 11(9): e1004397](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004397#sec008)
+>>>>>>> Stashed changes
