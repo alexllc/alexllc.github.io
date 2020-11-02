@@ -10,7 +10,7 @@
 
 title: RIP Alex                          # the main title
 
-tagline: Git commit -m ":pray:".  # it will display as the sub-title
+tagline: Git commit -m ":pray:"  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A personal writing outlet that I don't expect anyone to actually read.
